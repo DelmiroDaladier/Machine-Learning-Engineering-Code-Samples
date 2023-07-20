@@ -1,0 +1,9 @@
+[
+    {
+      "model": "SVC",
+      "params": {
+        "kernel": "linear",
+        "C": 0.01
+      }
+    }
+]
